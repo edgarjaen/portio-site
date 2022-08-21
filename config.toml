@@ -1,4 +1,4 @@
-baseURL = "http://edgarjaen.online"
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
