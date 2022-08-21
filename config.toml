@@ -2,7 +2,7 @@ baseURL = "http://edgarjaen.online"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
-title = "Edgar Reyes Jaén"
+title = "Edgar Reyes Jaén | SCADA Engineer | Frontend Developer | PLC Programmer"
 # Main Menu
 weight = 2
 [[menu.main]]
