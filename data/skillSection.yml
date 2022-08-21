@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Principales Habilidades
+content: >
+  ## Ya sabes cuales son mis principales aptitudes técnicas?
+
+  ¿A lo largo de mi carrera profesional he adquirido importantes habilidades a continuación resalto varias habilidades que he venido aplicando y son de mi interés.
+
+image: images/skill/ed-skill_01.webp
+
+skill:
+  - title: Integración de Protocolos (ModBus, BSAP, OPC-UA)
+    percent: 80
+  - title: Bases de Datos
+    percent: 90
+  - title: SEO, Web Performance
+    percent: 70
+  - title: HTML5, CSS, JavaScript
+    percent: 70

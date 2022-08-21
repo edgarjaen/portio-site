@@ -1,0 +1,23 @@
+---
+enable: false
+topTitle: Testimonios
+title: >
+  ## What People Say About Me?
+
+testimonial:
+  - name: Ricardo Zerpa
+    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+    time: Jan 20, 2020
+    star: 5
+  - name: Guillermo Escalante
+    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+    time: Jan 16, 2020
+    star: 4
+  - name: Dayyanet Diaz
+    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+    time: Mar 08, 2020
+    star: 3
+  - name: Jonathan Castaneda
+    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+    time: Mar 08, 2020
+    star: 3

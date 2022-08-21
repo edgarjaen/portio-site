@@ -1,0 +1,32 @@
+---
+enable: true
+topTitle: Áreas de Trabajo
+title: >
+  ## Servicios y Colaboraciones
+
+service:
+  - content: >
+      #### Consultoría en implementación SCADA 
+
+      Asesoría en la implementación de Sistemas de Adquisición de Datos y Control Supervisorio.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### SCADA Support 
+
+      Resolución de problemas en Interfaces Hombre Máquina (HMI), Registros en Bases de Datos en Tiempo Real e Historica, Tendencias, UDT.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Desarrollo Web 
+
+      Diseño y desarrollo de páginas y aplicaciones Web, implementación de motores de plantillas basadas en estandares para HTML5 con CSS y Javascript
+    image: images/service/web.svg
+  - content: >
+      #### Soporte Web 
+
+      Resolución de problemas y mejoras relacionadas con posicionamiento web (SEO), mejoras en velocidad de carga y otras métricas que forman parte del rendimiento (performance web).
+    image: images/service/web.svg
+  - content: >
+      #### Programación en Integración de PLC 
+
+      Programación de tu sistema de control de acuerdo a narrativa o filosofía de operación de la planta.
+    image: images/service/creative.svg

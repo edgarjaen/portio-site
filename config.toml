@@ -1,0 +1,69 @@
+baseURL = "http://edgarjaen.online"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-hugo"
+title = "Edgar Reyes Jaén"
+# Main Menu
+weight = 2
+[[menu.main]]
+name = "Servicios"
+url = "#servicios"
+weight = 3
+[[menu.main]]
+name = "Habilidades"
+url = "#habilidades"
+weight = 6
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Acerca de mí"
+url = "#acercade"
+weight = 1
+[[menu.sitemap]]
+name = "Preguntas Frecuentes"
+url = "#preguntas"
+weight = 2
+[[menu.sitemap]]
+name = "Últimos Articulos"
+url = "#blog"
+weight = 3
+
+[params]
+blogPageURL = "blog"
+contactLink = "contacto"
+resumeLink = "https://cv.edgarjaen.online"
+copyright = "All right reserved copyright © Edgar Reyes Jaén 2022"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Carretera Nacional Charallave-Cúa Km 4. Urb. Las Mesetas"
+email = "info@edgarjaen.online"
+phone = "+584126059402"
+whatsapp = "+573227661649"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/edjaen.ve"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/edgarjaen"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/edgarjaen"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/edjaen"
+weight = 4
